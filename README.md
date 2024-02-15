@@ -1,1 +1,3 @@
 # YieldYap
+
+Scaffold coming soon
